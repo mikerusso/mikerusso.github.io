@@ -1,11 +1,11 @@
 # Site settings
 author: Mike Russo
-title: 
+title: Mike's Test Blog
 header-img: img/home-bg.png
 email: mike.russo@flatironschool.com
 copyright_name: Mike Russo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  This is My Test Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mikerusso
